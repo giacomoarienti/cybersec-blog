@@ -27,7 +27,7 @@ description: >-                        # used by seo meta and the atom feed
   A cybersecurity related blog by Giacomo Arienti
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'http://www.giacomoarienti.com'
+url: 'https://www.giacomoarienti.com'
 
 github:
   username: giacomoarienti             # change to your github username
