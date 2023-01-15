@@ -1,6 +1,6 @@
 # Cybersec Blog
 
-https://giacomoarienti.github.io/cybersec-blog/
+https://www.giacomoarienti.com/
 
 ## License
 
